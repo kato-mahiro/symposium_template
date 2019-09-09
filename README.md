@@ -10,7 +10,6 @@ $ sudo apt install texlive-lang-cjk
 $ sudo apt install texlive-fonts-recommended
 $ sudo apt install texlive-fonts-extra
 $ sudo apt install xdvik-ja
-$ sudo apt install dvipsk-ja
 $ sudo apt install gv
 ```  
 
